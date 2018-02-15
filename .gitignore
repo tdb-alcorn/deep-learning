@@ -4,6 +4,8 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+transfer-learning/codes
+transfer-learning/labels
 
 .ipynb_checkpoints/
 
