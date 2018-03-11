@@ -6,6 +6,7 @@ embeddings/text8.zip
 face_generation/data/
 transfer-learning/codes
 transfer-learning/labels
+batch-norm/MNIST_data/
 
 .ipynb_checkpoints/
 
